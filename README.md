@@ -1,7 +1,7 @@
 ![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
 <h1 align="center">Hi 👋, I'm Shaswat Choudhary</h1>
 <h3 align="center">Crafting Exquisite User Experiences with Pixels and Passion 🚀"</h3>
-<img align="right" alt="Coding" width="400" href="https://gifer.com/JXA0">
+<img align="right" alt="Coding" width="400" src="https://github.com/Shaswatchoudhary/Shaswatchoudhary/assets/128454524/39f5db54-8444-48d5-ae52-0dc794ba869c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="shaswatchoudhary" /> </p>
 
