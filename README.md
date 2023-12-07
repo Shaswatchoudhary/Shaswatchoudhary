@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shaswat choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaswat choudhary" height="30" width="40" /></a>
 <a href="https://medium.com/kaushikchoudhary33@icloud.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kaushikchoudhary33@icloud.com" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shaswat choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaswat choudhary" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/shaswat choudhary](https://www.youtube.com/channel/UC5f51E_7N-2CAgD0qq4iT0A)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaswat choudhary" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/nrFT7dHV4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nrFT7dHV4a" height="30" width="40" /></a>
 </p>
 
