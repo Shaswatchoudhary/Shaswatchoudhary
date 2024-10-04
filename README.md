@@ -1,6 +1,6 @@
-![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
+![MasterHead](https://images.prismic.io/turing/652ec75afbd9a45bcec81a31_Front_End_Developer_Outsource_6b0889ba3a.webp?auto=format%2Ccompress&fit=max&w=3840)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shaswat+Choudhary!;" />
@@ -70,7 +70,6 @@
 "/>
 </picture>
 
-<hr/>
 
 
 
