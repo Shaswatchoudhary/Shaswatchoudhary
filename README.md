@@ -20,7 +20,7 @@
 
 📫 How to reach me kaushikchoudhary33@icloud.com
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
  </div>
  
