@@ -64,12 +64,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=ShaswatChoudhary&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="My stats" align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shaswatchoudhary&show_icons=true&theme=radical)
-" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswatchoudhary&layout=donut)](https://github.com/Shaswatchoudhary/github-readme-stats)
-"/>
-</picture>
-
+ 
 
 
 
