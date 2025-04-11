@@ -15,7 +15,7 @@
 - 👯 I'm looking to collaborate on **open-source projects and innovative web applications**
 - 💬 Ask me about **JavaScript, React, Node.js, Firebase, or anything [here](https://github.com/kaushikchoudhary/kaushikchoudhary/issues)**
 - 📫 How to reach me: **kaushikchoudhary33@icloud.com**
-- 📄 Check out my experiences: [Portfolio Website]([https://shaswatportfolio.netlify.app/])
+- 📄 Check out my experiences: [Portfolio Website](https://shaswatportfolio.netlify.app/)
 - ⚡ Fun fact: **I create 3D models in my free time**
 
 <div align="center">
