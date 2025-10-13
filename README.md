@@ -25,10 +25,10 @@
 ## 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaushikchoudhary" target="_blank">
+  <a href="https://www.linkedin.com/in/shaswat-choudhary-6a36b824b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://youtube.com/c/kaushikchoudhary" target="_blank">
+  <a href="https://youtube.com/c/kaushikchoudhary](https://www.youtube.com/@Shaswatchoudhary21)" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://discord.gg/kaushikchoudhary" target="_blank">
@@ -37,7 +37,7 @@
   <a href="mailto:kaushikchoudhary33@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://shaswatportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
