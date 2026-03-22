@@ -1,115 +1,126 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-
-<h1 align="center">I'm Shaswat Choudhary</h1>
-<h3 align="center">A passionate Full-Stack Developer from India 🇮🇳</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+Enthusiast;3D+Design+Explorer;Open+Source+Contributor" alt="Typing SVG" /></a>
-</p>
-
-## 💫 About Me
-
-- 🔭 I'm currently working on **React.js applications with 3D elements using Three.js**
-- 🌱 I'm currently learning **Firebase, AWS, Blender, and Backend Architecture**
-- 👯 I'm looking to collaborate on **open-source projects and innovative web applications**
-- 💬 Ask me about **JavaScript, React, Node.js, Firebase, or anything [here](https://github.com/kaushikchoudhary/kaushikchoudhary/issues)**
-- 📫 How to reach me: **kaushikchoudhary33@icloud.com**
-- 📄 Check out my experiences: [Portfolio Website](https://shaswatportfolio.netlify.app/)
-- ⚡ Fun fact: **I create 3D models in my free time**
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushikchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikchoudhary" />
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shaswat%20Choudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%203D%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
 </div>
 
-## 🌐 Connect with Me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaswat-choudhary-6a36b824b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://youtube.com/c/kaushikchoudhary](https://www.youtube.com/@Shaswatchoudhary21)" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://discord.gg/kaushikchoudhary" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:kaushikchoudhary33@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://shaswatportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-## ⚒️ Languages and Tools:
-
 <div align="center">
-  
-  ### Frontend Development
-  <p align="center">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt=" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-    >
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-  </p>
-  
-  ### Backend Development
-  <p align="center">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    
-  </p>
-  
-  ### Tools & Others
-  <p align="center">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Render" />
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </p>
+  <a href="https://www.linkedin.com/in/shaswat-choudhary-6a36b824b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:kaushikchoudhary33@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://shaswatportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@Shaswatchoudhary21">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://discord.gg/kaushikchoudhary">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=kaushikchoudhary&style=flat-square&color=302b63&label=Profile+Views" />
 </div>
 
-## 📌 Featured Projects
+---
+
+## `$ whoami`
+
+```typescript
+const shaswat = {
+  role      : "Full-Stack Developer",
+  location  : "India 🇮🇳",
+  focus     : ["React.js", "Node.js", "Three.js", "Firebase"],
+  learning  : ["AWS", "Backend Architecture", "Blender"],
+  hobbies   : ["3D Modelling", "Open Source", "Building cool stuff"],
+  portfolio : "https://shaswatportfolio.netlify.app/",
+  available : true,
+};
+```
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Shaswatchoudhary/JOB-PORTAL">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shaswatchoudhary&repo=JOB-PORTAL&theme=tokyonight" alt="Job Portal" />
-  </a>
-  <a href="https://github.com/Shaswatchoudhary/Chat_application">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shaswatchoudhary&repo=Chat_application&theme=tokyonight" alt="Chat App" />
-  </a>
-  <a href="https://github.com/Shaswatchoudhary/portfolio">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shaswatchoudhary&repo=portfolio&theme=tokyonight" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Shaswatchoudhary/MyBlenderfiles">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shaswatchoudhary&repo=MyBlenderfiles&theme=tokyonight" alt="Blender Files" />
-  </a>
-  <a href="https://github.com/Shaswatchoudhary/apple.com">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shaswatchoudhary&repo=apple.com&theme=tokyonight" alt="Apple Clone" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaswatchoudhary&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswatchoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
 
-## 🐍 My Contributions:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shaswatchoudhary&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Job Portal**](https://github.com/Shaswatchoudhary/JOB-PORTAL) | Full-featured job listing & application platform | React, Node.js, MongoDB |
+| [**Chat Application**](https://github.com/Shaswatchoudhary/Chat_application) | Real-time messaging app with modern UI | React, Firebase, WebSockets |
+| [**Portfolio**](https://github.com/Shaswatchoudhary/portfolio) | Personal portfolio with 3D elements | React, Three.js |
+| [**Apple.com Clone**](https://github.com/Shaswatchoudhary/apple.com) | Pixel-perfect Apple website clone | React, GSAP, Three.js |
+| [**Blender Files**](https://github.com/Shaswatchoudhary/MyBlenderfiles) | Collection of 3D models & renders | Blender |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 ---
 
 <div align="center">
 
-  <p>Let's turn ideas into code!</p>
+**Open to collaborations, freelance projects & full-time opportunities.**
+<br/>
+*Let's build something remarkable together.*
+<br/><br/>
+<a href="mailto:kaushikchoudhary33@icloud.com">
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-302b63?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+
 </div>
