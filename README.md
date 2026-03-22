@@ -103,7 +103,7 @@ const shaswat = {
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**WorkEase** *(Mega Project)*](https://github.com/Shaswatchoudhary/Mega-project-workease) | Full-featured workplace productivity platform — task management, team workflows & progress tracking | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| [**WorkEase** *(Mega Project)*](https://github.com/Shaswatchoudhary/Mega-project-workease) | Full-featured workplace productivity platform — task management, team workflows & progress tracking | ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | [**Job Portal**](https://github.com/Shaswatchoudhary/JOB-PORTAL) | Full-featured job listing & application platform with employer/candidate dashboards | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | [**Alarm App**](https://github.com/Shaswatchoudhary/Alarm-app) | Sleek browser-based alarm clock with custom alerts, snooze & Web Notification API support | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
@@ -113,11 +113,12 @@ const shaswat = {
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**Mac OS UI Clone**](https://github.com/Shaswatchoudhary/Mac-operating-system) | Pixel-accurate macOS desktop simulation — Dock, Finder, windows & drag interactions in the browser | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| [**Mac OS UI Clone**](https://github.com/Shaswatchoudhary/Mac-operating-system) | Pixel-accurate macOS desktop simulation — Dock, Finder, windows & drag interactions in the browser | ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | [**Apple.com Clone**](https://github.com/Shaswatchoudhary/apple.com) | Pixel-perfect Apple website recreation with scroll-driven 3D animations | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
 | [**Portfolio**](https://github.com/Shaswatchoudhary/portfolio) | Personal developer portfolio with immersive 3D elements and smooth animations | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) |
 
 <br/>
+
 
 ### 🎲 Creative & 3D
 
