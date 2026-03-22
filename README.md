@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shaswat%20Choudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%203D%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shaswat%20Choudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ReactNative%20%7C%20Node.js%20%7C%203D%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -25,6 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=kaushikchoudhary&style=flat-square&color=302b63&label=Profile+Views" />
 </div>
 
+<br/>
+
 ---
 
 ## `$ whoami`
@@ -33,7 +34,7 @@
 const shaswat = {
   role      : "Full-Stack Developer",
   location  : "India 🇮🇳",
-  focus     : ["React.js", "Node.js", "Three.js", "Firebase"],
+  focus     : ["React.js", "React Native" ,"Node.js", "Three.js", "Firebase"],
   learning  : ["AWS", "Backend Architecture", "Blender"],
   hobbies   : ["3D Modelling", "Open Source", "Building cool stuff"],
   portfolio : "https://shaswatportfolio.netlify.app/",
@@ -61,6 +62,7 @@ const shaswat = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -74,6 +76,57 @@ const shaswat = {
 
 ---
 
+## 🚀 Featured Projects
+
+> A curated selection of projects spanning security tooling, real-time communication, productivity platforms, and UI/UX showcases.
+
+<br/>
+
+### 🔐 Security & Backend
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**NodeArmor**](https://github.com/Shaswatchoudhary/nodearmor) | Node.js security middleware toolkit — rate limiting, input sanitization & threat protection for Express apps | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
+
+<br/>
+
+### 💬 Communication & Real-Time Apps
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Video Meet**](https://github.com/Shaswatchoudhary/video-meet) | Real-time video conferencing app with room creation, peer-to-peer video/audio, and live chat | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| [**Chat Application**](https://github.com/Shaswatchoudhary/Chat_application) | Real-time messaging platform with user auth, rooms, and live updates | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+
+<br/>
+
+### 🗂️ Productivity & Work Tools
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**WorkEase** *(Mega Project)*](https://github.com/Shaswatchoudhary/Mega-project-workease) | Full-featured workplace productivity platform — task management, team workflows & progress tracking | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| [**Job Portal**](https://github.com/Shaswatchoudhary/JOB-PORTAL) | Full-featured job listing & application platform with employer/candidate dashboards | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| [**Alarm App**](https://github.com/Shaswatchoudhary/Alarm-app) | Sleek browser-based alarm clock with custom alerts, snooze & Web Notification API support | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+
+<br/>
+
+### 🎨 UI/UX Clones & Design Showcases
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Mac OS UI Clone**](https://github.com/Shaswatchoudhary/Mac-operating-system) | Pixel-accurate macOS desktop simulation — Dock, Finder, windows & drag interactions in the browser | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| [**Apple.com Clone**](https://github.com/Shaswatchoudhary/apple.com) | Pixel-perfect Apple website recreation with scroll-driven 3D animations | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
+| [**Portfolio**](https://github.com/Shaswatchoudhary/portfolio) | Personal developer portfolio with immersive 3D elements and smooth animations | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) |
+
+<br/>
+
+### 🎲 Creative & 3D
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Blender Files**](https://github.com/Shaswatchoudhary/MyBlenderfiles) | Collection of original 3D models, scenes & renders — from product mockups to abstract art | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,22 +136,6 @@ const shaswat = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shaswatchoudhary&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Job Portal**](https://github.com/Shaswatchoudhary/JOB-PORTAL) | Full-featured job listing & application platform | React, Node.js, MongoDB |
-| [**Chat Application**](https://github.com/Shaswatchoudhary/Chat_application) | Real-time messaging app with modern UI | React, Firebase, WebSockets |
-| [**Portfolio**](https://github.com/Shaswatchoudhary/portfolio) | Personal portfolio with 3D elements | React, Three.js |
-| [**Apple.com Clone**](https://github.com/Shaswatchoudhary/apple.com) | Pixel-perfect Apple website clone | React, GSAP, Three.js |
-| [**Blender Files**](https://github.com/Shaswatchoudhary/MyBlenderfiles) | Collection of 3D models & renders | Blender |
-
 </div>
 
 ---
@@ -116,10 +153,18 @@ const shaswat = {
 **Open to collaborations, freelance projects & full-time opportunities.**
 <br/>
 *Let's build something remarkable together.*
-<br/><br/>
+
+<br/>
+
 <a href="mailto:kaushikchoudhary33@icloud.com">
   <img src="https://img.shields.io/badge/Get%20In%20Touch-302b63?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://shaswatportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
 
